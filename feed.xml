@@ -10,7 +10,9 @@
     <itunes:summary>从鸦片战争到辛亥革命，一部晚清七十年的大历史。虎门销烟、太平天国、甲午战争、洋务维新——以现代视角重讲大清帝国最后的兴衰沉浮，听懂近代中国的来路。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://raw.githubusercontent.com/DEMON987654321/daqing/main/cover.png" />
-    <itunes:category text="History" />
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="History" />
+    </itunes:category>
     <itunes:owner>
       <itunes:name>大王</itunes:name>
       <itunes:email>644616136@qq.com</itunes:email>
@@ -28,6 +30,7 @@
       <itunes:title>M01 鸦片战争：从虎门销烟到南京条约</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:duration>100:32</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -42,6 +45,7 @@
       <itunes:title>M02 火烧圆明园：第二次鸦片战争的耻辱</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>2</itunes:episode>
+      <itunes:season>2</itunes:season>
       <itunes:duration>81:20</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -56,6 +60,7 @@
       <itunes:title>M03 太平天国崛起：从金田村到天京</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>3</itunes:episode>
+      <itunes:season>3</itunes:season>
       <itunes:duration>68:28</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -70,6 +75,7 @@
       <itunes:title>M04 太平天国覆灭：天京事变与湘军克复</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>4</itunes:episode>
+      <itunes:season>4</itunes:season>
       <itunes:duration>68:35</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -84,6 +90,7 @@
       <itunes:title>M05 慈禧崛起：同治朝的权力游戏</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>5</itunes:episode>
+      <itunes:season>5</itunes:season>
       <itunes:duration>69:07</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -98,6 +105,7 @@
       <itunes:title>M06 戊戌风云：变法、珍妃与帝国的裂痕</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>6</itunes:episode>
+      <itunes:season>6</itunes:season>
       <itunes:duration>68:24</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -112,6 +120,7 @@
       <itunes:title>M07 洋务运动与甲午战争的开端</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>7</itunes:episode>
+      <itunes:season>7</itunes:season>
       <itunes:duration>44:40</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -126,6 +135,7 @@
       <itunes:title>M08 甲午战争与列强瓜分中国</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>8</itunes:episode>
+      <itunes:season>8</itunes:season>
       <itunes:duration>70:03</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -140,6 +150,7 @@
       <itunes:title>M09 义和团与东南互保：帝国的最后疯狂</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>9</itunes:episode>
+      <itunes:season>9</itunes:season>
       <itunes:duration>46:30</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -154,6 +165,7 @@
       <itunes:title>M10 辛亥革命：两千年帝制的终结</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>10</itunes:episode>
+      <itunes:season>10</itunes:season>
       <itunes:duration>44:19</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -168,6 +180,7 @@
       <itunes:title>M11 袁世凯与李鸿章：帝国末日的权臣</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>11</itunes:episode>
+      <itunes:season>11</itunes:season>
       <itunes:duration>70:11</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -182,6 +195,7 @@
       <itunes:title>M12 曾国藩与左宗棠：晚清双雄</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>12</itunes:episode>
+      <itunes:season>12</itunes:season>
       <itunes:duration>45:26</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -196,6 +210,7 @@
       <itunes:title>M13 条约口岸、教案与留学生：打开国门的阵痛</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>13</itunes:episode>
+      <itunes:season>13</itunes:season>
       <itunes:duration>67:11</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -210,6 +225,7 @@
       <itunes:title>M14 紫禁城的账本：宫廷经济与太监制度</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>14</itunes:episode>
+      <itunes:season>14</itunes:season>
       <itunes:duration>67:52</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -224,6 +240,7 @@
       <itunes:title>M15 科举制度：古代高考的兴与废</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>15</itunes:episode>
+      <itunes:season>15</itunes:season>
       <itunes:duration>45:38</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -238,6 +255,7 @@
       <itunes:title>M16 缠足与天足：千年陋习的废除之路</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>16</itunes:episode>
+      <itunes:season>16</itunes:season>
       <itunes:duration>45:28</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -252,6 +270,7 @@
       <itunes:title>M17 鸦片沦陷与溥仪童年</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>17</itunes:episode>
+      <itunes:season>17</itunes:season>
       <itunes:duration>67:42</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -266,6 +285,7 @@
       <itunes:title>M18 溥仪流亡与戊戌变法再审视</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>18</itunes:episode>
+      <itunes:season>18</itunes:season>
       <itunes:duration>67:11</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -280,6 +300,7 @@
       <itunes:title>M19 慈禧终评与晚清未解之谜</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>19</itunes:episode>
+      <itunes:season>19</itunes:season>
       <itunes:duration>67:34</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -294,6 +315,7 @@
       <itunes:title>M20 清末新政：铁路、电报与张之洞</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>20</itunes:episode>
+      <itunes:season>20</itunes:season>
       <itunes:duration>67:30</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -308,6 +330,7 @@
       <itunes:title>M21 维新思想家：康梁、严复与容闳</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>21</itunes:episode>
+      <itunes:season>21</itunes:season>
       <itunes:duration>67:05</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -322,6 +345,7 @@
       <itunes:title>M22 秋瑾与晚清军事改革</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>22</itunes:episode>
+      <itunes:season>22</itunes:season>
       <itunes:duration>45:52</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -336,6 +360,7 @@
       <itunes:title>M23 经济民生、军事深化与辛丑条约</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>23</itunes:episode>
+      <itunes:season>23</itunes:season>
       <itunes:duration>69:38</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -350,6 +375,7 @@
       <itunes:title>M24 女性觉醒、大清遗产与物价民生</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>24</itunes:episode>
+      <itunes:season>24</itunes:season>
       <itunes:duration>68:03</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -364,6 +390,7 @@
       <itunes:title>M25 官场现形、舆论兴起与北洋新军</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>25</itunes:episode>
+      <itunes:season>25</itunes:season>
       <itunes:duration>67:59</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -378,6 +405,7 @@
       <itunes:title>M26 租界、武昌起义到民国新生</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>26</itunes:episode>
+      <itunes:season>26</itunes:season>
       <itunes:duration>67:12</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -392,6 +420,7 @@
       <itunes:title>M27 历史周期律与晚清启示（一）</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>27</itunes:episode>
+      <itunes:season>27</itunes:season>
       <itunes:duration>67:13</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -406,6 +435,7 @@
       <itunes:title>M28 晚清启示（二）：权力与人才</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>28</itunes:episode>
+      <itunes:season>28</itunes:season>
       <itunes:duration>44:54</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -420,6 +450,7 @@
       <itunes:title>M29 民心、权力与互联网狂想</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>29</itunes:episode>
+      <itunes:season>29</itunes:season>
       <itunes:duration>44:22</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -434,6 +465,7 @@
       <itunes:title>M30 大结局：投资人的终极复盘</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>30</itunes:episode>
+      <itunes:season>30</itunes:season>
       <itunes:duration>45:03</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -448,6 +480,7 @@
       <itunes:title>SP01 洪承畴降清之谜：美人计还是帝王术</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>31</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:duration>13:39</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
