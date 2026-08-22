@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>大清那些事儿</title>
-    <link>https://DEMON987654321.github.io/daqing/feed.xml</link>
+    <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/feed.xml</link>
     <language>zh-cn</language>
     <description>从鸦片战争到辛亥革命，一部晚清七十年的大历史。虎门销烟、太平天国、甲午战争、洋务维新——以现代视角重讲大清帝国最后的兴衰沉浮，听懂近代中国的来路。</description>
     <itunes:subtitle>从鸦片战争到辛亥革命，一部晚清七十年的大历史。虎门销烟、太平天国、甲午战争、洋务维新——以现代视角重讲大清帝国最后的兴衰沉浮，听懂近代中国的来路。</itunes:subtitle>
     <itunes:author>大王</itunes:author>
     <itunes:summary>从鸦片战争到辛亥革命，一部晚清七十年的大历史。虎门销烟、太平天国、甲午战争、洋务维新——以现代视角重讲大清帝国最后的兴衰沉浮，听懂近代中国的来路。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://DEMON987654321.github.io/daqing/cover.png" />
+    <itunes:image href="https://raw.githubusercontent.com/DEMON987654321/daqing/main/cover.png" />
     <itunes:category text="History" />
     <itunes:owner>
       <itunes:name>大王</itunes:name>
       <itunes:email>644616136@qq.com</itunes:email>
     </itunes:owner>
     <itunes:type>episodic</itunes:type>
-    <itunes:new-feed-url>https://DEMON987654321.github.io/daqing/feed.xml</itunes:new-feed-url>
+    <itunes:new-feed-url>https://raw.githubusercontent.com/DEMON987654321/daqing/main/feed.xml</itunes:new-feed-url>
     <item>
       <title>M01 鸦片战争：从虎门销烟到南京条约</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M01.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M01.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M01.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M01.mp3</guid>
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0800</pubDate>
       <description>M01 鸦片战争：从虎门销烟到南京条约。朋友们，欢迎来到《大清那些事儿》！  说实话，我第一次认真研究鸦片战争的时候，脑子里只有一个想法——这事儿如果放在今天，就相当于一个国家觉得贸易逆差太大，于是大规模向对方走私毒品，然后用军舰保护毒贩子，打输了还让人家割地赔款。你敢信？这不是网飞剧本，这是1840年真实发生的事。而且最荒诞的是，干这事儿的国家是当时自称"文明世界灯塔"的大英帝国——维多利亚时代，绅士文化，下午茶，白金汉宫，听起来多么</description>
       <content:encoded>M01 鸦片战争：从虎门销烟到南京条约。朋友们，欢迎来到《大清那些事儿》！  说实话，我第一次认真研究鸦片战争的时候，脑子里只有一个想法——这事儿如果放在今天，就相当于一个国家觉得贸易逆差太大，于是大规模向对方走私毒品，然后用军舰保护毒贩子，打输了还让人家割地赔款。你敢信？这不是网飞剧本，这是1840年真实发生的事。而且最荒诞的是，干这事儿的国家是当时自称"文明世界灯塔"的大英帝国——维多利亚时代，绅士文化，下午茶，白金汉宫，听起来多么</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M01.mp3" length="96514400" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M01.mp3" length="96514400" type="audio/mpeg" />
       <itunes:title>M01 鸦片战争：从虎门销烟到南京条约</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
@@ -33,12 +33,12 @@
     </item>
     <item>
       <title>M02 火烧圆明园：第二次鸦片战争的耻辱</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M02.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M02.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M02.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M02.mp3</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0800</pubDate>
       <description>M02 火烧圆明园：第二次鸦片战争的耻辱。朋友们，欢迎来到《大清那些事儿》！  上集我们聊了《南京条约》怎么打开了潘多拉魔盒，引来了列强排队薅羊毛。按理说，被人打了一顿、割了地、赔了款、签了不平等条约——一个正常的人和正常的国家，应该会有应激反应吧？就像你出门被车撞了一下，你下次过马路会本能地左右多看一眼。但大清朝廷的反应是什么？我总结为六个字：签完条约，继续睡。而且是深度睡眠——呼噜打得震天响的那种。  从1842年到1856年，整整1</description>
       <content:encoded>M02 火烧圆明园：第二次鸦片战争的耻辱。朋友们，欢迎来到《大清那些事儿》！  上集我们聊了《南京条约》怎么打开了潘多拉魔盒，引来了列强排队薅羊毛。按理说，被人打了一顿、割了地、赔了款、签了不平等条约——一个正常的人和正常的国家，应该会有应激反应吧？就像你出门被车撞了一下，你下次过马路会本能地左右多看一眼。但大清朝廷的反应是什么？我总结为六个字：签完条约，继续睡。而且是深度睡眠——呼噜打得震天响的那种。  从1842年到1856年，整整1</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M02.mp3" length="78095680" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M02.mp3" length="78095680" type="audio/mpeg" />
       <itunes:title>M02 火烧圆明园：第二次鸦片战争的耻辱</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>2</itunes:episode>
@@ -47,12 +47,12 @@
     </item>
     <item>
       <title>M03 太平天国崛起：从金田村到天京</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M03.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M03.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M03.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M03.mp3</guid>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
       <description>M03 太平天国崛起：从金田村到天京。朋友们，欢迎来到《大清那些事儿》！  前面六集聊完了鸦片战争——外患讲完了，今天开始聊内忧。而且这个内忧，比外患恐怖得多。鸦片战争死人是以千和万计算的，而今天开始讲的这场内乱，死人是以千万计算的。1840年英国人用鸦片撬开了中国的国门，1851年一个广东落榜生在南中国的山沟沟里说——我是上帝的二儿子。十三年后，几千万人因此而死。这个落榜生的名字叫洪秀全。  洪秀全的经历听起来就像一个荒诞剧的剧本。</description>
       <content:encoded>M03 太平天国崛起：从金田村到天京。朋友们，欢迎来到《大清那些事儿》！  前面六集聊完了鸦片战争——外患讲完了，今天开始聊内忧。而且这个内忧，比外患恐怖得多。鸦片战争死人是以千和万计算的，而今天开始讲的这场内乱，死人是以千万计算的。1840年英国人用鸦片撬开了中国的国门，1851年一个广东落榜生在南中国的山沟沟里说——我是上帝的二儿子。十三年后，几千万人因此而死。这个落榜生的名字叫洪秀全。  洪秀全的经历听起来就像一个荒诞剧的剧本。</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M03.mp3" length="65731520" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M03.mp3" length="65731520" type="audio/mpeg" />
       <itunes:title>M03 太平天国崛起：从金田村到天京</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>3</itunes:episode>
@@ -61,12 +61,12 @@
     </item>
     <item>
       <title>M04 太平天国覆灭：天京事变与湘军克复</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M04.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M04.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M04.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M04.mp3</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
       <description>M04 太平天国覆灭：天京事变与湘军克复。朋友们，欢迎来到《大清那些事儿》！  前面几集我一直在给你铺垫一个事情——太平天国的权力结构里埋着一颗定时炸弹。这颗炸弹的名字叫"天父下凡"。洪秀全是天王没错，但杨秀清可以通过"天父附体"以上帝的名义发号施令。很多次，"天父"当着众人的面训斥洪秀全，洪秀全只能跪着听。这在当时的太平天国高层看来是"正常"的——天父比你天王高嘛。但你想想，如果你是洪秀全，有一个人随时可以宣称被你爹附体然后当众打你的脸</description>
       <content:encoded>M04 太平天国覆灭：天京事变与湘军克复。朋友们，欢迎来到《大清那些事儿》！  前面几集我一直在给你铺垫一个事情——太平天国的权力结构里埋着一颗定时炸弹。这颗炸弹的名字叫"天父下凡"。洪秀全是天王没错，但杨秀清可以通过"天父附体"以上帝的名义发号施令。很多次，"天父"当着众人的面训斥洪秀全，洪秀全只能跪着听。这在当时的太平天国高层看来是"正常"的——天父比你天王高嘛。但你想想，如果你是洪秀全，有一个人随时可以宣称被你爹附体然后当众打你的脸</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M04.mp3" length="65854880" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M04.mp3" length="65854880" type="audio/mpeg" />
       <itunes:title>M04 太平天国覆灭：天京事变与湘军克复</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>4</itunes:episode>
@@ -75,12 +75,12 @@
     </item>
     <item>
       <title>M05 慈禧崛起：同治朝的权力游戏</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M05.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M05.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M05.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M05.mp3</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
       <description>M05 慈禧崛起：同治朝的权力游戏。朋友们，欢迎来到《大清那些事儿》！  前面我们讲了鸦片战争和太平天国——大清外被洋人打、内被长毛捅，可谓内外交困。但就在这个帝国最风雨飘摇的时候，一个女人悄然登上了历史舞台，而且一待就是47年，一直待到她自己死的那天。她就是慈禧太后——晚清实际的最高统治者，也是中国历史上最有权势、最富争议、最复杂的女人之一。  接下来的十多集，我会给你完整讲述慈禧的一生。今天这一集，咱们先从她的出身说起。  慈禧</description>
       <content:encoded>M05 慈禧崛起：同治朝的权力游戏。朋友们，欢迎来到《大清那些事儿》！  前面我们讲了鸦片战争和太平天国——大清外被洋人打、内被长毛捅，可谓内外交困。但就在这个帝国最风雨飘摇的时候，一个女人悄然登上了历史舞台，而且一待就是47年，一直待到她自己死的那天。她就是慈禧太后——晚清实际的最高统治者，也是中国历史上最有权势、最富争议、最复杂的女人之一。  接下来的十多集，我会给你完整讲述慈禧的一生。今天这一集，咱们先从她的出身说起。  慈禧</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M05.mp3" length="66365920" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M05.mp3" length="66365920" type="audio/mpeg" />
       <itunes:title>M05 慈禧崛起：同治朝的权力游戏</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>5</itunes:episode>
@@ -89,12 +89,12 @@
     </item>
     <item>
       <title>M06 戊戌风云：变法、珍妃与帝国的裂痕</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M06.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M06.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M06.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M06.mp3</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
       <description>M06 戊戌风云：变法、珍妃与帝国的裂痕。朋友们，欢迎来到《大清那些事儿》！  上集讲了慈禧怎么在同治死后立4岁的光绪为帝，继续把持朝政。这一集是整个晚清历史上最关键的一百天——1898年的戊戌变法。这是光绪皇帝唯一一次真正尝试掌权、唯一一次尝试改革、唯一一次尝试摆脱慈禧控制的机会。他差一点就成功了——差一点，但就差那么一点。  光绪皇帝载湉，1875年即位，年仅4岁。从4岁到18岁，他是在慈禧的阴影下长大的。慈禧对他的控制比对同治稍微"</description>
       <content:encoded>M06 戊戌风云：变法、珍妃与帝国的裂痕。朋友们，欢迎来到《大清那些事儿》！  上集讲了慈禧怎么在同治死后立4岁的光绪为帝，继续把持朝政。这一集是整个晚清历史上最关键的一百天——1898年的戊戌变法。这是光绪皇帝唯一一次真正尝试掌权、唯一一次尝试改革、唯一一次尝试摆脱慈禧控制的机会。他差一点就成功了——差一点，但就差那么一点。  光绪皇帝载湉，1875年即位，年仅4岁。从4岁到18岁，他是在慈禧的阴影下长大的。慈禧对他的控制比对同治稍微"</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M06.mp3" length="65672320" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M06.mp3" length="65672320" type="audio/mpeg" />
       <itunes:title>M06 戊戌风云：变法、珍妃与帝国的裂痕</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>6</itunes:episode>
@@ -103,12 +103,12 @@
     </item>
     <item>
       <title>M07 洋务运动与甲午战争的开端</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M07.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M07.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M07.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M07.mp3</guid>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
       <description>M07 洋务运动与甲午战争的开端。朋友们，欢迎来到《大清那些事儿》！  前面聊了太多慈禧个人的故事，今天我们跳出人物，来看一个影响更深远的话题——洋务运动，或者叫"自强运动"。这是晚清最认真的一次自救尝试，持续了三十多年（1860年代到1890年代），花了大把银子，办了工厂，建了海军，派了留学生。但最终的结果我们都知道——甲午战争一战回到原点，三十年的努力被日本几十年的努力甩出好几条街。为什么？  洋务运动的核心口号是曾国藩的学生</description>
       <content:encoded>M07 洋务运动与甲午战争的开端。朋友们，欢迎来到《大清那些事儿》！  前面聊了太多慈禧个人的故事，今天我们跳出人物，来看一个影响更深远的话题——洋务运动，或者叫"自强运动"。这是晚清最认真的一次自救尝试，持续了三十多年（1860年代到1890年代），花了大把银子，办了工厂，建了海军，派了留学生。但最终的结果我们都知道——甲午战争一战回到原点，三十年的努力被日本几十年的努力甩出好几条街。为什么？  洋务运动的核心口号是曾国藩的学生</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M07.mp3" length="42895040" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M07.mp3" length="42895040" type="audio/mpeg" />
       <itunes:title>M07 洋务运动与甲午战争的开端</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>7</itunes:episode>
@@ -117,12 +117,12 @@
     </item>
     <item>
       <title>M08 甲午战争与列强瓜分中国</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M08.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M08.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M08.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M08.mp3</guid>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
       <description>M08 甲午战争与列强瓜分中国。朋友们，欢迎来到《大清那些事儿》！  上集聊了甲午战争的背景和陆上战场——清军从朝鲜一路溃败到辽东，平壤丢了、鸭绿江防线崩了，清军统帅叶志超跑得比兔子还快，人送外号"叶跑跑"。今天咱们聊这场战争中最著名也最悲壮的一页——黄海海战，也就是"大东沟海战"。这是人类历史上第一次蒸汽铁甲舰队之间的大规模对决，也是亚洲历史上规模最大的海战之一。这一仗打完之后，中国人对海洋的恐惧持续了一百年。  先给你一个数</description>
       <content:encoded>M08 甲午战争与列强瓜分中国。朋友们，欢迎来到《大清那些事儿》！  上集聊了甲午战争的背景和陆上战场——清军从朝鲜一路溃败到辽东，平壤丢了、鸭绿江防线崩了，清军统帅叶志超跑得比兔子还快，人送外号"叶跑跑"。今天咱们聊这场战争中最著名也最悲壮的一页——黄海海战，也就是"大东沟海战"。这是人类历史上第一次蒸汽铁甲舰队之间的大规模对决，也是亚洲历史上规模最大的海战之一。这一仗打完之后，中国人对海洋的恐惧持续了一百年。  先给你一个数</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M08.mp3" length="67249120" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M08.mp3" length="67249120" type="audio/mpeg" />
       <itunes:title>M08 甲午战争与列强瓜分中国</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>8</itunes:episode>
@@ -131,12 +131,12 @@
     </item>
     <item>
       <title>M09 义和团与东南互保：帝国的最后疯狂</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M09.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M09.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M09.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M09.mp3</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
       <description>M09 义和团与东南互保：帝国的最后疯狂。朋友们，欢迎来到《大清那些事儿》！  上集聊了列强瓜分中国——俄国抢东北、德国抢山东、英国抢长江、法国抢西南、日本抢台湾和福建。全中国的有识之士从上到下感受到的只有一个字：屈辱。这种屈辱感在历史的长河里有时候像暗流，有时候会突然找到一个出口然后火山爆发。1900年的义和团运动就是这个爆发点——晚清历史上最疯狂、最荒诞、也最具有悲剧色彩的群众运动。  故事的主角是一群山东和直隶的农民，他们相信自己练</description>
       <content:encoded>M09 义和团与东南互保：帝国的最后疯狂。朋友们，欢迎来到《大清那些事儿》！  上集聊了列强瓜分中国——俄国抢东北、德国抢山东、英国抢长江、法国抢西南、日本抢台湾和福建。全中国的有识之士从上到下感受到的只有一个字：屈辱。这种屈辱感在历史的长河里有时候像暗流，有时候会突然找到一个出口然后火山爆发。1900年的义和团运动就是这个爆发点——晚清历史上最疯狂、最荒诞、也最具有悲剧色彩的群众运动。  故事的主角是一群山东和直隶的农民，他们相信自己练</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M09.mp3" length="44645440" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M09.mp3" length="44645440" type="audio/mpeg" />
       <itunes:title>M09 义和团与东南互保：帝国的最后疯狂</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>9</itunes:episode>
@@ -145,12 +145,12 @@
     </item>
     <item>
       <title>M10 辛亥革命：两千年帝制的终结</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M10.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M10.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M10.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M10.mp3</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0800</pubDate>
       <description>M10 辛亥革命：两千年帝制的终结。朋友们，欢迎来到《大清那些事儿》！  前面讲了大清怎么从鸦片战争一路衰落到义和团运动，中央权威崩塌，东南各省已经不听话了。今天要聊的是压垮大清这头骆驼的最后一根稻草——辛亥革命。这是中国历史上最伟大的转折点之一：延续了两千多年的帝制，在短短几个月内土崩瓦解。而这一切的起点，竟然是四川的一群股民在抗议铁路国有化——是的你没听错，是股民。  用投资圈的话说：谁能想到一个大清帝国的灭亡，起因竟然是个IP</description>
       <content:encoded>M10 辛亥革命：两千年帝制的终结。朋友们，欢迎来到《大清那些事儿》！  前面讲了大清怎么从鸦片战争一路衰落到义和团运动，中央权威崩塌，东南各省已经不听话了。今天要聊的是压垮大清这头骆驼的最后一根稻草——辛亥革命。这是中国历史上最伟大的转折点之一：延续了两千多年的帝制，在短短几个月内土崩瓦解。而这一切的起点，竟然是四川的一群股民在抗议铁路国有化——是的你没听错，是股民。  用投资圈的话说：谁能想到一个大清帝国的灭亡，起因竟然是个IP</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M10.mp3" length="42545077" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M10.mp3" length="42545077" type="audio/mpeg" />
       <itunes:title>M10 辛亥革命：两千年帝制的终结</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>10</itunes:episode>
@@ -159,12 +159,12 @@
     </item>
     <item>
       <title>M11 袁世凯与李鸿章：帝国末日的权臣</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M11.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M11.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M11.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M11.mp3</guid>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0800</pubDate>
       <description>M11 袁世凯与李鸿章：帝国末日的权臣。朋友们，欢迎来到《大清那些事儿》！  上集说到清朝灭亡，中国进入了一个短命的"北洋政府"时代。而这个时代的第一号人物，就是袁世凯。这个人的蜕变轨迹在中国近现代史上几乎找不到第二个：从朝鲜前线拼杀出来的实干派军官，到小站练兵的军事改革者，到戊戌变法的关键告密者，到辛亥革命的"共和功臣"，再到83天的短命皇帝——他这一生把枭雄、能臣、投机者、独裁者这些标签全都集齐了。  很多人只知道袁世凯最后称帝把自</description>
       <content:encoded>M11 袁世凯与李鸿章：帝国末日的权臣。朋友们，欢迎来到《大清那些事儿》！  上集说到清朝灭亡，中国进入了一个短命的"北洋政府"时代。而这个时代的第一号人物，就是袁世凯。这个人的蜕变轨迹在中国近现代史上几乎找不到第二个：从朝鲜前线拼杀出来的实干派军官，到小站练兵的军事改革者，到戊戌变法的关键告密者，到辛亥革命的"共和功臣"，再到83天的短命皇帝——他这一生把枭雄、能臣、投机者、独裁者这些标签全都集齐了。  很多人只知道袁世凯最后称帝把自</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M11.mp3" length="67387520" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M11.mp3" length="67387520" type="audio/mpeg" />
       <itunes:title>M11 袁世凯与李鸿章：帝国末日的权臣</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>11</itunes:episode>
@@ -173,12 +173,12 @@
     </item>
     <item>
       <title>M12 曾国藩与左宗棠：晚清双雄</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M12.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M12.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M12.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M12.mp3</guid>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0800</pubDate>
       <description>M12 曾国藩与左宗棠：晚清双雄。朋友们，欢迎来到《大清那些事儿》！  在讲太平天国的时候详细聊过湘军怎么练的。今天我要从更宏观、更人性的角度来评价曾国藩这个人——他是晚清最矛盾的人物，没有之一。一方面他是儒家"内圣外王"的典范——从小读四书五经，每天写日记反省自己，读理学著作参悟人生，被人尊称为"曾文正公"。谥号"文正"是文臣谥号中的最高等——整个清朝两百多年只有八个人得到过这个谥号。另一方面他纵容湘军屠城——在天京（南京）陷落</description>
       <content:encoded>M12 曾国藩与左宗棠：晚清双雄。朋友们，欢迎来到《大清那些事儿》！  在讲太平天国的时候详细聊过湘军怎么练的。今天我要从更宏观、更人性的角度来评价曾国藩这个人——他是晚清最矛盾的人物，没有之一。一方面他是儒家"内圣外王"的典范——从小读四书五经，每天写日记反省自己，读理学著作参悟人生，被人尊称为"曾文正公"。谥号"文正"是文臣谥号中的最高等——整个清朝两百多年只有八个人得到过这个谥号。另一方面他纵容湘军屠城——在天京（南京）陷落</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M12.mp3" length="43625440" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M12.mp3" length="43625440" type="audio/mpeg" />
       <itunes:title>M12 曾国藩与左宗棠：晚清双雄</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>12</itunes:episode>
@@ -187,12 +187,12 @@
     </item>
     <item>
       <title>M13 条约口岸、教案与留学生：打开国门的阵痛</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M13.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M13.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M13.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M13.mp3</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0800</pubDate>
       <description>M13 条约口岸、教案与留学生：打开国门的阵痛。朋友们，欢迎来到《大清那些事儿》！  前面反复提到"通商口岸""条约口岸""租界"，这集专门来讲清楚——这些口岸到底是什么？它们是怎么被打开的？对中国产生了什么不可逆的影响？先给你一个数据暴击：从1842年《南京条约》开放五个口岸到1911年清朝灭亡，中国的条约口岸从五个增加到了将近一百个。从广州到天津，从上海到汉口，从厦门到哈尔滨，中国的海岸线和长江沿线——所有重要的城市、所有关键的码头、所有能</description>
       <content:encoded>M13 条约口岸、教案与留学生：打开国门的阵痛。朋友们，欢迎来到《大清那些事儿》！  前面反复提到"通商口岸""条约口岸""租界"，这集专门来讲清楚——这些口岸到底是什么？它们是怎么被打开的？对中国产生了什么不可逆的影响？先给你一个数据暴击：从1842年《南京条约》开放五个口岸到1911年清朝灭亡，中国的条约口岸从五个增加到了将近一百个。从广州到天津，从上海到汉口，从厦门到哈尔滨，中国的海岸线和长江沿线——所有重要的城市、所有关键的码头、所有能</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M13.mp3" length="64501440" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M13.mp3" length="64501440" type="audio/mpeg" />
       <itunes:title>M13 条约口岸、教案与留学生：打开国门的阵痛</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>13</itunes:episode>
@@ -201,12 +201,12 @@
     </item>
     <item>
       <title>M14 紫禁城的账本：宫廷经济与太监制度</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M14.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M14.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M14.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M14.mp3</guid>
       <pubDate>Sat, 05 Sep 2026 00:00:00 +0800</pubDate>
       <description>M14 紫禁城的账本：宫廷经济与太监制度。朋友们，欢迎来到《大清那些事儿》！  前面聊过慈禧一顿饭吃一百多道菜，还挪用海军经费修颐和园。今天更系统地聊聊清朝的"宫廷经济"——养一个紫禁城到底要花多少钱？这些钱是从哪里来的？最后到了谁的口袋里？用投资圈的话说：这是历史上最大、最稳定、最无法改革的"贪腐系统"——它的名字叫"内务府"。我们先看几个数字：内务府每年的预算大约三百万到五百万两白银（不包括皇帝临时下旨的各种"内帑"拨款），而当时清朝</description>
       <content:encoded>M14 紫禁城的账本：宫廷经济与太监制度。朋友们，欢迎来到《大清那些事儿》！  前面聊过慈禧一顿饭吃一百多道菜，还挪用海军经费修颐和园。今天更系统地聊聊清朝的"宫廷经济"——养一个紫禁城到底要花多少钱？这些钱是从哪里来的？最后到了谁的口袋里？用投资圈的话说：这是历史上最大、最稳定、最无法改革的"贪腐系统"——它的名字叫"内务府"。我们先看几个数字：内务府每年的预算大约三百万到五百万两白银（不包括皇帝临时下旨的各种"内帑"拨款），而当时清朝</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M14.mp3" length="65165440" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M14.mp3" length="65165440" type="audio/mpeg" />
       <itunes:title>M14 紫禁城的账本：宫廷经济与太监制度</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>14</itunes:episode>
@@ -215,12 +215,12 @@
     </item>
     <item>
       <title>M15 科举制度：古代高考的兴与废</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M15.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M15.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M15.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M15.mp3</guid>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0800</pubDate>
       <description>M15 科举制度：古代高考的兴与废。朋友们，欢迎来到《大清那些事儿》！  前面很多集提到科举——洪秀全考不上多次精神崩溃然后创立拜上帝会造反了；袁世凯考了几次没考上一把火烧了四书五经从军了；范进考到五十多岁终于中举却高兴疯了。今天咱们来系统聊聊这个延续了一千三百多年的制度——科举。如果用一个现代比喻来理解它，科举就是古代的"公务员考试加上高考"的超级加强版。考上了就能当官，当官就意味着权力、财富和跨越阶层。考不上——你就是一个白丁，</description>
       <content:encoded>M15 科举制度：古代高考的兴与废。朋友们，欢迎来到《大清那些事儿》！  前面很多集提到科举——洪秀全考不上多次精神崩溃然后创立拜上帝会造反了；袁世凯考了几次没考上一把火烧了四书五经从军了；范进考到五十多岁终于中举却高兴疯了。今天咱们来系统聊聊这个延续了一千三百多年的制度——科举。如果用一个现代比喻来理解它，科举就是古代的"公务员考试加上高考"的超级加强版。考上了就能当官，当官就意味着权力、财富和跨越阶层。考不上——你就是一个白丁，</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M15.mp3" length="43811040" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M15.mp3" length="43811040" type="audio/mpeg" />
       <itunes:title>M15 科举制度：古代高考的兴与废</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>15</itunes:episode>
@@ -229,12 +229,12 @@
     </item>
     <item>
       <title>M16 缠足与天足：千年陋习的废除之路</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M16.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M16.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M16.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M16.mp3</guid>
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0800</pubDate>
       <description>M16 缠足与天足：千年陋习的废除之路。朋友们，欢迎来到《大清那些事儿》！  从这一集开始，咱们进入《大清那些事儿》第一季的最后二十集。今天聊一个让人听了浑身不舒服的话题——缠足。缠足是中国历史上持续时间最长、覆盖面最广、对女性身体摧残最严重的集体审美暴力。从北宋宫廷开始到二十世纪五六十年代才彻底绝迹，这个陋习在中国延续了将近一千年。一千年——比任何一个王朝的寿命都长，比任何一种政治制度的寿命都长。一个被所有人都知道有害的习俗，为什么能</description>
       <content:encoded>M16 缠足与天足：千年陋习的废除之路。朋友们，欢迎来到《大清那些事儿》！  从这一集开始，咱们进入《大清那些事儿》第一季的最后二十集。今天聊一个让人听了浑身不舒服的话题——缠足。缠足是中国历史上持续时间最长、覆盖面最广、对女性身体摧残最严重的集体审美暴力。从北宋宫廷开始到二十世纪五六十年代才彻底绝迹，这个陋习在中国延续了将近一千年。一千年——比任何一个王朝的寿命都长，比任何一种政治制度的寿命都长。一个被所有人都知道有害的习俗，为什么能</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M16.mp3" length="43656000" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M16.mp3" length="43656000" type="audio/mpeg" />
       <itunes:title>M16 缠足与天足：千年陋习的废除之路</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>16</itunes:episode>
@@ -243,12 +243,12 @@
     </item>
     <item>
       <title>M17 鸦片沦陷与溥仪童年</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M17.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M17.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M17.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M17.mp3</guid>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0800</pubDate>
       <description>M17 鸦片沦陷与溥仪童年。朋友们，欢迎来到《大清那些事儿》！  如果说缠足是中国社会内部的慢性自残，那鸦片就是外部势力兜售给中国的"成瘾性灾难"。缠足毁的是中国女性的身体和尊严，鸦片毁的是整个中国社会的肌体——从个人到家庭到军队到国家财政，一层层被抽空。今天这集咱们把鸦片在中国的前世今生从头到尾讲清楚：它最初是怎么来的、怎么从药品变成毒品的、英国人是怎么把它变成"战争武器"的，以及它对中国社会造成的全方位摧毁。听完这集你会</description>
       <content:encoded>M17 鸦片沦陷与溥仪童年。朋友们，欢迎来到《大清那些事儿》！  如果说缠足是中国社会内部的慢性自残，那鸦片就是外部势力兜售给中国的"成瘾性灾难"。缠足毁的是中国女性的身体和尊严，鸦片毁的是整个中国社会的肌体——从个人到家庭到军队到国家财政，一层层被抽空。今天这集咱们把鸦片在中国的前世今生从头到尾讲清楚：它最初是怎么来的、怎么从药品变成毒品的、英国人是怎么把它变成"战争武器"的，以及它对中国社会造成的全方位摧毁。听完这集你会</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M17.mp3" length="64997600" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M17.mp3" length="64997600" type="audio/mpeg" />
       <itunes:title>M17 鸦片沦陷与溥仪童年</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>17</itunes:episode>
@@ -257,12 +257,12 @@
     </item>
     <item>
       <title>M18 溥仪流亡与戊戌变法再审视</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M18.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M18.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M18.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M18.mp3</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0800</pubDate>
       <description>M18 溥仪流亡与戊戌变法再审视。朋友们，欢迎来到《大清那些事儿》！  上集咱们聊了溥仪从出生到17岁的"关门皇帝"生涯。1924年，平静被彻底打破了——冯玉祥发动"甲子政变"，把18岁的溥仪从紫禁城里赶了出去。从那一刻起，溥仪的人生开始了一段长达三十五年的跌宕旅程：天津流亡七年、伪满洲国傀儡十四年、苏联战俘五年、抚顺改造九年、公民生活八年。今天这集聚焦他从被赶出紫禁城到在天津日本租界落脚这七年——这是他人生的转折点，也是他后来所</description>
       <content:encoded>M18 溥仪流亡与戊戌变法再审视。朋友们，欢迎来到《大清那些事儿》！  上集咱们聊了溥仪从出生到17岁的"关门皇帝"生涯。1924年，平静被彻底打破了——冯玉祥发动"甲子政变"，把18岁的溥仪从紫禁城里赶了出去。从那一刻起，溥仪的人生开始了一段长达三十五年的跌宕旅程：天津流亡七年、伪满洲国傀儡十四年、苏联战俘五年、抚顺改造九年、公民生活八年。今天这集聚焦他从被赶出紫禁城到在天津日本租界落脚这七年——这是他人生的转折点，也是他后来所</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M18.mp3" length="64510720" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M18.mp3" length="64510720" type="audio/mpeg" />
       <itunes:title>M18 溥仪流亡与戊戌变法再审视</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>18</itunes:episode>
@@ -271,12 +271,12 @@
     </item>
     <item>
       <title>M19 慈禧终评与晚清未解之谜</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M19.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M19.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M19.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M19.mp3</guid>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
       <description>M19 慈禧终评与晚清未解之谜。朋友们，欢迎来到《大清那些事儿》！  上集咱们聊了戊戌变法失败的前三重困境：改革者没有权力基础、得罪了所有既得利益者、操之过急。今天聊第四重也是最深刻的困境——一个逻辑悖论，以及戊戌变法失败之后对整个中国历史走向的深远影响。听完这两集你会发现，戊戌变法的失败是"注定"的——不是因为光绪不够努力、康有为不够聪明，而是因为这个局从设定之初就包含了不可调和的矛盾。  **【困境四：用专制手段推动民主化改</description>
       <content:encoded>M19 慈禧终评与晚清未解之谜。朋友们，欢迎来到《大清那些事儿》！  上集咱们聊了戊戌变法失败的前三重困境：改革者没有权力基础、得罪了所有既得利益者、操之过急。今天聊第四重也是最深刻的困境——一个逻辑悖论，以及戊戌变法失败之后对整个中国历史走向的深远影响。听完这两集你会发现，戊戌变法的失败是"注定"的——不是因为光绪不够努力、康有为不够聪明，而是因为这个局从设定之初就包含了不可调和的矛盾。  **【困境四：用专制手段推动民主化改</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M19.mp3" length="64869440" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M19.mp3" length="64869440" type="audio/mpeg" />
       <itunes:title>M19 慈禧终评与晚清未解之谜</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>19</itunes:episode>
@@ -285,12 +285,12 @@
     </item>
     <item>
       <title>M20 清末新政：铁路、电报与张之洞</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M20.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M20.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M20.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M20.mp3</guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0800</pubDate>
       <description>M20 清末新政：铁路、电报与张之洞。朋友们，欢迎来到《大清那些事儿》！  1901年到1911年这十年，清朝在庚子国变的惨痛教训后推行了一场"清末新政"——这是大清灭亡前最后一次、也是最有诚意的一次大规模自救运动。从内容上看，清末新政几乎就是戊戌变法在慈禧亲自操盘下的"翻版"——废科举、练新军、兴学堂、办实业、预备立宪……戊戌变法想做但没做到的事，慈禧在1901年之后做了个遍。但问题是——太晚了。一个拖延了太久的改革，本身就会成为革</description>
       <content:encoded>M20 清末新政：铁路、电报与张之洞。朋友们，欢迎来到《大清那些事儿》！  1901年到1911年这十年，清朝在庚子国变的惨痛教训后推行了一场"清末新政"——这是大清灭亡前最后一次、也是最有诚意的一次大规模自救运动。从内容上看，清末新政几乎就是戊戌变法在慈禧亲自操盘下的"翻版"——废科举、练新军、兴学堂、办实业、预备立宪……戊戌变法想做但没做到的事，慈禧在1901年之后做了个遍。但问题是——太晚了。一个拖延了太久的改革，本身就会成为革</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M20.mp3" length="64808000" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M20.mp3" length="64808000" type="audio/mpeg" />
       <itunes:title>M20 清末新政：铁路、电报与张之洞</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>20</itunes:episode>
@@ -299,12 +299,12 @@
     </item>
     <item>
       <title>M21 维新思想家：康梁、严复与容闳</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M21.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M21.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M21.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M21.mp3</guid>
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0800</pubDate>
       <description>M21 维新思想家：康梁、严复与容闳。朋友们，欢迎来到《大清那些事儿》！  戊戌变法的两个灵魂人物——康有为和梁启超——是中国近代思想史上最有戏剧性的师徒关系之一。康有为是1898年戊戌变法期间光绪皇帝最倚重的"总设计师"；梁启超是康有为最得意的学生，变法期间只有二十多岁但已经以笔力惊天下。戊戌政变后两人流亡海外，曾经共同发誓"恢复帝室再造中华"。但在度过共同的流亡岁月后，两人在"要不要革命"这个终极问题上彻底分道扬镳甚至反目。今天是</description>
       <content:encoded>M21 维新思想家：康梁、严复与容闳。朋友们，欢迎来到《大清那些事儿》！  戊戌变法的两个灵魂人物——康有为和梁启超——是中国近代思想史上最有戏剧性的师徒关系之一。康有为是1898年戊戌变法期间光绪皇帝最倚重的"总设计师"；梁启超是康有为最得意的学生，变法期间只有二十多岁但已经以笔力惊天下。戊戌政变后两人流亡海外，曾经共同发誓"恢复帝室再造中华"。但在度过共同的流亡岁月后，两人在"要不要革命"这个终极问题上彻底分道扬镳甚至反目。今天是</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M21.mp3" length="64400800" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M21.mp3" length="64400800" type="audio/mpeg" />
       <itunes:title>M21 维新思想家：康梁、严复与容闳</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>21</itunes:episode>
@@ -313,12 +313,12 @@
     </item>
     <item>
       <title>M22 秋瑾与晚清军事改革</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M22.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M22.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M22.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M22.mp3</guid>
       <pubDate>Sun, 13 Sep 2026 00:00:00 +0800</pubDate>
       <description>M22 秋瑾与晚清军事改革。朋友们，欢迎来到《大清那些事儿》！  在晚清所有的人物中，有一个人的人生轨迹是最"不按常理出牌"的——秋瑾，人称"鉴湖女侠"。她是浙江官宦人家的千金小姐，按照当时的"标准人生剧本"她应该嫁一个门当户对的丈夫、在深宅大院里相夫教子过完一生。但她没有——她抛下丈夫和两个年幼的孩子，自费东渡日本留学，加入孙中山的同盟会，创办中国第一份女性报纸《中国女报》，策划武装起义，最后在32岁的盛年被清政府处斩。临</description>
       <content:encoded>M22 秋瑾与晚清军事改革。朋友们，欢迎来到《大清那些事儿》！  在晚清所有的人物中，有一个人的人生轨迹是最"不按常理出牌"的——秋瑾，人称"鉴湖女侠"。她是浙江官宦人家的千金小姐，按照当时的"标准人生剧本"她应该嫁一个门当户对的丈夫、在深宅大院里相夫教子过完一生。但她没有——她抛下丈夫和两个年幼的孩子，自费东渡日本留学，加入孙中山的同盟会，创办中国第一份女性报纸《中国女报》，策划武装起义，最后在32岁的盛年被清政府处斩。临</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M22.mp3" length="44041920" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M22.mp3" length="44041920" type="audio/mpeg" />
       <itunes:title>M22 秋瑾与晚清军事改革</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>22</itunes:episode>
@@ -327,12 +327,12 @@
     </item>
     <item>
       <title>M23 经济民生、军事深化与辛丑条约</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M23.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M23.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M23.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M23.mp3</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0800</pubDate>
       <description>M23 经济民生、军事深化与辛丑条约。朋友们，欢迎来到《大清那些事儿》！  前面几十集咱们聊了皇帝、太后、名臣、将军、思想家、革命者——今天咱们把这舞台的灯光从"大人物"身上移开，照一照晚清最沉默的群体：普通老百姓。当慈禧在颐和园一百多道菜一道菜尝一口的时候，隔壁村的老农民在啃树皮。当李鸿章在谈判桌上签《马关条约》赔两亿两白银的时候，广东乡下那个失去儿子的母亲只能用一杯寡粥熬过那一天。大人物们做的每一个决定最终买单的都是这群连名字都没</description>
       <content:encoded>M23 经济民生、军事深化与辛丑条约。朋友们，欢迎来到《大清那些事儿》！  前面几十集咱们聊了皇帝、太后、名臣、将军、思想家、革命者——今天咱们把这舞台的灯光从"大人物"身上移开，照一照晚清最沉默的群体：普通老百姓。当慈禧在颐和园一百多道菜一道菜尝一口的时候，隔壁村的老农民在啃树皮。当李鸿章在谈判桌上签《马关条约》赔两亿两白银的时候，广东乡下那个失去儿子的母亲只能用一杯寡粥熬过那一天。大人物们做的每一个决定最终买单的都是这群连名字都没</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M23.mp3" length="66850080" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M23.mp3" length="66850080" type="audio/mpeg" />
       <itunes:title>M23 经济民生、军事深化与辛丑条约</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>23</itunes:episode>
@@ -341,12 +341,12 @@
     </item>
     <item>
       <title>M24 女性觉醒、大清遗产与物价民生</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M24.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M24.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M24.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M24.mp3</guid>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0800</pubDate>
       <description>M24 女性觉醒、大清遗产与物价民生。朋友们，欢迎来到《大清那些事儿》！  今天聊一个不一样的角度——晚清女性的觉醒。很多人研究晚清历史，眼睛只盯着皇帝、大臣、将军、洋人，但很少有人关注那个时代女性的命运变化。实际上晚清是中国女性命运的转折点。在这之前两千年，中国女性的社会地位基本上是一条躺平的直线——三从四德、相夫教子、大门不出二门不迈。但从晚清开始，这条线突然开始往上翘了。为什么？因为时代的大潮把整个社会冲了个底朝天，旧规矩松动了</description>
       <content:encoded>M24 女性觉醒、大清遗产与物价民生。朋友们，欢迎来到《大清那些事儿》！  今天聊一个不一样的角度——晚清女性的觉醒。很多人研究晚清历史，眼睛只盯着皇帝、大臣、将军、洋人，但很少有人关注那个时代女性的命运变化。实际上晚清是中国女性命运的转折点。在这之前两千年，中国女性的社会地位基本上是一条躺平的直线——三从四德、相夫教子、大门不出二门不迈。但从晚清开始，这条线突然开始往上翘了。为什么？因为时代的大潮把整个社会冲了个底朝天，旧规矩松动了</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M24.mp3" length="65331200" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M24.mp3" length="65331200" type="audio/mpeg" />
       <itunes:title>M24 女性觉醒、大清遗产与物价民生</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>24</itunes:episode>
@@ -355,12 +355,12 @@
     </item>
     <item>
       <title>M25 官场现形、舆论兴起与北洋新军</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M25.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M25.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M25.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M25.mp3</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0800</pubDate>
       <description>M25 官场现形、舆论兴起与北洋新军。朋友们，欢迎来到《大清那些事儿》！  今天的标题有点标题党，但内容一点都不夸张。晚清官场的腐败程度，如果说在其他朝代腐败是偷鸡摸狗地下进行的，在晚清腐败就是公开营业的公司化运作。买官卖官有明码标价、有中间商、有分期付款、甚至还有打折促销。今天咱们就来把这个奇葩生态掰开了看，你会发现什么叫"腐败出清王朝"。  **【捐纳制度：合法的买官卖官】**  首先要澄清一个概念——在清朝买官本身不是违法的，它</description>
       <content:encoded>M25 官场现形、舆论兴起与北洋新军。朋友们，欢迎来到《大清那些事儿》！  今天的标题有点标题党，但内容一点都不夸张。晚清官场的腐败程度，如果说在其他朝代腐败是偷鸡摸狗地下进行的，在晚清腐败就是公开营业的公司化运作。买官卖官有明码标价、有中间商、有分期付款、甚至还有打折促销。今天咱们就来把这个奇葩生态掰开了看，你会发现什么叫"腐败出清王朝"。  **【捐纳制度：合法的买官卖官】**  首先要澄清一个概念——在清朝买官本身不是违法的，它</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M25.mp3" length="65279040" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M25.mp3" length="65279040" type="audio/mpeg" />
       <itunes:title>M25 官场现形、舆论兴起与北洋新军</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>25</itunes:episode>
@@ -369,12 +369,12 @@
     </item>
     <item>
       <title>M26 租界、武昌起义到民国新生</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M26.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M26.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M26.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M26.mp3</guid>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0800</pubDate>
       <description>M26 租界、武昌起义到民国新生。朋友们，欢迎来到《大清那些事儿》！  今天聊一个在上海外滩走一圈就能感觉到的历史——租界。从1845年上海英租界开张到二十世纪四十年代最后一批租界收回，这一百年左右的租界历史是中国近代史上一个极其复杂的切片。租界既是耻辱的象征——在你自己的国家你被外国法律管着；也是现代化的窗口——电灯、电话、自来水、西方城市规划和市政管理最先出现在租界。今天咱们来把这个"国中之国"的前世今生理清楚。  **【租界</description>
       <content:encoded>M26 租界、武昌起义到民国新生。朋友们，欢迎来到《大清那些事儿》！  今天聊一个在上海外滩走一圈就能感觉到的历史——租界。从1845年上海英租界开张到二十世纪四十年代最后一批租界收回，这一百年左右的租界历史是中国近代史上一个极其复杂的切片。租界既是耻辱的象征——在你自己的国家你被外国法律管着；也是现代化的窗口——电灯、电话、自来水、西方城市规划和市政管理最先出现在租界。今天咱们来把这个"国中之国"的前世今生理清楚。  **【租界</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M26.mp3" length="64513440" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M26.mp3" length="64513440" type="audio/mpeg" />
       <itunes:title>M26 租界、武昌起义到民国新生</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>26</itunes:episode>
@@ -383,12 +383,12 @@
     </item>
     <item>
       <title>M27 历史周期律与晚清启示（一）</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M27.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M27.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M27.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M27.mp3</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0800</pubDate>
       <description>M27 历史周期律与晚清启示（一）。朋友们，欢迎来到《大清那些事儿》！  八十集的大清故事快要结束了，今天我想站在一个更宏观的高度来回望这268年。历史有一个规律叫作"历史周期律"——一个政权从兴起到鼎盛再到衰落最后灭亡，这个过程似乎是所有王朝都逃不过的宿命。大清268年不算短也不算长——放在中国王朝史里属于中上水平。但它衰亡的方式有一些独特之处，非常值得今天的人琢磨。  **【清兴清亡的完整时间线】**  咱们先快速过一遍大清的整</description>
       <content:encoded>M27 历史周期律与晚清启示（一）。朋友们，欢迎来到《大清那些事儿》！  八十集的大清故事快要结束了，今天我想站在一个更宏观的高度来回望这268年。历史有一个规律叫作"历史周期律"——一个政权从兴起到鼎盛再到衰落最后灭亡，这个过程似乎是所有王朝都逃不过的宿命。大清268年不算短也不算长——放在中国王朝史里属于中上水平。但它衰亡的方式有一些独特之处，非常值得今天的人琢磨。  **【清兴清亡的完整时间线】**  咱们先快速过一遍大清的整</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M27.mp3" length="64540960" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M27.mp3" length="64540960" type="audio/mpeg" />
       <itunes:title>M27 历史周期律与晚清启示（一）</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>27</itunes:episode>
@@ -397,12 +397,12 @@
     </item>
     <item>
       <title>M28 晚清启示（二）：权力与人才</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M28.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M28.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M28.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M28.mp3</guid>
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0800</pubDate>
       <description>M28 晚清启示（二）：权力与人才。朋友们，欢迎来到《大清那些事儿》！  你认识那种在公司里干了二十年、所有决策最后都要他拍板、没人敢对他说半个不字的老板吗？权力这个东西很奇妙——你一开始觉得自己用它来做事情，但是后来你会发现你被它控制了。历史上在这方面做到极致的是谁？慈禧太后。她从一个十七岁的兰贵人爬到中国最高权力宝座，掌控整个帝国长达四十七年。但她的人生轨迹向我们展示了一个残酷的事实——绝对权力不是让人变强大，是让人变愚蠢。  </description>
       <content:encoded>M28 晚清启示（二）：权力与人才。朋友们，欢迎来到《大清那些事儿》！  你认识那种在公司里干了二十年、所有决策最后都要他拍板、没人敢对他说半个不字的老板吗？权力这个东西很奇妙——你一开始觉得自己用它来做事情，但是后来你会发现你被它控制了。历史上在这方面做到极致的是谁？慈禧太后。她从一个十七岁的兰贵人爬到中国最高权力宝座，掌控整个帝国长达四十七年。但她的人生轨迹向我们展示了一个残酷的事实——绝对权力不是让人变强大，是让人变愚蠢。  </content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M28.mp3" length="43104480" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M28.mp3" length="43104480" type="audio/mpeg" />
       <itunes:title>M28 晚清启示（二）：权力与人才</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>28</itunes:episode>
@@ -411,12 +411,12 @@
     </item>
     <item>
       <title>M29 民心、权力与互联网狂想</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M29.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M29.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M29.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M29.mp3</guid>
       <pubDate>Sun, 20 Sep 2026 00:00:00 +0800</pubDate>
       <description>M29 民心、权力与互联网狂想。朋友们，欢迎来到《大清那些事儿》！  今天聊启示系列的最后一集，也是我认为最重要的一集——民心。政治学上有一句话叫"得民心者得天下，失民心者失天下"。这句话老套吗？老套。但老套的道理往往是反复被证明又反复被忽视的真理。清朝在1911年崩溃的时候，最令人震惊的一点不是革命党人多厉害——而是没有一个人愿意为清朝卖命了。满族贵族在逃跑，汉族官僚在观望，北洋军在谈判，老百姓在吃瓜。一个统治了中国二百六十八</description>
       <content:encoded>M29 民心、权力与互联网狂想。朋友们，欢迎来到《大清那些事儿》！  今天聊启示系列的最后一集，也是我认为最重要的一集——民心。政治学上有一句话叫"得民心者得天下，失民心者失天下"。这句话老套吗？老套。但老套的道理往往是反复被证明又反复被忽视的真理。清朝在1911年崩溃的时候，最令人震惊的一点不是革命党人多厉害——而是没有一个人愿意为清朝卖命了。满族贵族在逃跑，汉族官僚在观望，北洋军在谈判，老百姓在吃瓜。一个统治了中国二百六十八</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M29.mp3" length="42606560" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M29.mp3" length="42606560" type="audio/mpeg" />
       <itunes:title>M29 民心、权力与互联网狂想</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>29</itunes:episode>
@@ -425,12 +425,12 @@
     </item>
     <item>
       <title>M30 大结局：投资人的终极复盘</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/M30.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/M30.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M30.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M30.mp3</guid>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0800</pubDate>
       <description>M30 大结局：投资人的终极复盘。朋友们，欢迎来到《大清那些事儿》！  聊了将近八十集的大清历史，今天我想以一个投资人的身份来做一次终极复盘。你知道投资人看公司的时候最怕什么吗？最怕的不是公司现在不赚钱——不赚钱可以等——最怕的是这个公司的创始人不知道问题出在哪。晚清的历史如果用一句话来总结就是：一家曾经是亚洲最大市值的公司，在自己最该变革的六十年里，把所有正确的事都做错了时间点。今天咱们就用商业分析的框架来给大清这家"公司"做一</description>
       <content:encoded>M30 大结局：投资人的终极复盘。朋友们，欢迎来到《大清那些事儿》！  聊了将近八十集的大清历史，今天我想以一个投资人的身份来做一次终极复盘。你知道投资人看公司的时候最怕什么吗？最怕的不是公司现在不赚钱——不赚钱可以等——最怕的是这个公司的创始人不知道问题出在哪。晚清的历史如果用一句话来总结就是：一家曾经是亚洲最大市值的公司，在自己最该变革的六十年里，把所有正确的事都做错了时间点。今天咱们就用商业分析的框架来给大清这家"公司"做一</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/M30.mp3" length="43248160" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/M30.mp3" length="43248160" type="audio/mpeg" />
       <itunes:title>M30 大结局：投资人的终极复盘</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>30</itunes:episode>
@@ -439,12 +439,12 @@
     </item>
     <item>
       <title>SP01 洪承畴降清之谜：美人计还是帝王术</title>
-      <link>https://DEMON987654321.github.io/daqing/episodes/SP01.mp3</link>
-      <guid isPermaLink="false">https://DEMON987654321.github.io/daqing/episodes/SP01.mp3</guid>
+      <link>https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/SP01.mp3</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/SP01.mp3</guid>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0800</pubDate>
       <description>SP01 洪承畴降清之谜：美人计还是帝王术。**【开场】**  各位朋友，欢迎收听《大清那些事儿》特别版。  今天这期，咱们讲一个全大清最有争议的"投降"——洪承畴降清。关于这件事，你肯定听过一个版本：大明朝最能打的统帅，被俘之后绝食求死，结果大玉儿——就是后来的孝庄太后——端着一壶人参汤，三言两语就把他劝降了。美人计嘛，英雄难过美人关。  但今天我要告诉你：这个版本，大概率是假的。  正史里，劝降洪承畴的根本不是孝庄，是皇太极本人。那问题</description>
       <content:encoded>SP01 洪承畴降清之谜：美人计还是帝王术。**【开场】**  各位朋友，欢迎收听《大清那些事儿》特别版。  今天这期，咱们讲一个全大清最有争议的"投降"——洪承畴降清。关于这件事，你肯定听过一个版本：大明朝最能打的统帅，被俘之后绝食求死，结果大玉儿——就是后来的孝庄太后——端着一壶人参汤，三言两语就把他劝降了。美人计嘛，英雄难过美人关。  但今天我要告诉你：这个版本，大概率是假的。  正史里，劝降洪承畴的根本不是孝庄，是皇太极本人。那问题</content:encoded>
-      <enclosure url="https://DEMON987654321.github.io/daqing/episodes/SP01.mp3" length="13105760" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/DEMON987654321/daqing/main/episodes/SP01.mp3" length="13105760" type="audio/mpeg" />
       <itunes:title>SP01 洪承畴降清之谜：美人计还是帝王术</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>31</itunes:episode>
